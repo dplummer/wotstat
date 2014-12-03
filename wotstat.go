@@ -61,22 +61,25 @@ func (overall *OverallWn8) Wn8() float64 {
 		sumOfDef, sumOfExpectedDef,
 		sumOfFrag, sumOfExpectedFrag,
 		sumOfSpot, sumOfExpectedSpot,
-		sumOfWinRate, sumOfExpectedWinRate float64
-
-	totalBattles := float64(overall.Battles())
+		sumOfWinRate, sumOfExpectedWinRate,
+		battles float64
 
 	for _, stat := range overall.CombinedStats {
-		sumOfDamage += float64(stat.Battles) * stat.AvgDamage
-		sumOfExpectedDamage += float64(stat.Battles) * stat.ExpDamage
-		sumOfDef += float64(stat.Battles) * stat.AvgDef
-		sumOfExpectedDef += float64(stat.Battles) * stat.ExpDef
-		sumOfFrag += float64(stat.Battles) * stat.AvgFrag
-		sumOfExpectedFrag += float64(stat.Battles) * stat.ExpFrag
-		sumOfSpot += float64(stat.Battles) * stat.AvgSpot
-		sumOfExpectedSpot += float64(stat.Battles) * stat.ExpSpot
-		sumOfWinRate += float64(stat.Battles) * stat.AvgWinRate
-		sumOfExpectedWinRate += float64(stat.Battles) * stat.ExpWinRate
+		battles = float64(stat.Battles)
+
+		sumOfDamage += battles * stat.AvgDamage
+		sumOfExpectedDamage += battles * stat.ExpDamage
+		sumOfDef += battles * stat.AvgDef
+		sumOfExpectedDef += battles * stat.ExpDef
+		sumOfFrag += battles * stat.AvgFrag
+		sumOfExpectedFrag += battles * stat.ExpFrag
+		sumOfSpot += battles * stat.AvgSpot
+		sumOfExpectedSpot += battles * stat.ExpSpot
+		sumOfWinRate += battles * stat.AvgWinRate
+		sumOfExpectedWinRate += battles * stat.ExpWinRate
 	}
+
+	totalBattles := float64(overall.Battles())
 
 	rDamage := (sumOfDamage / totalBattles) / (sumOfExpectedDamage / totalBattles)
 	rDef := (sumOfDef / totalBattles) / (sumOfExpectedDef / totalBattles)
