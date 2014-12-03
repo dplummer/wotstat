@@ -85,5 +85,5 @@ func (stat *VehicleBattleStat) AvgDef() float64 {
 }
 
 func (stat *VehicleBattleStat) AvgWinRate() float64 {
-	return float64(stat.Wins) / float64(stat.Battles)
+	return float64(stat.Wins) / float64(stat.Battles) * 100.0
 }
