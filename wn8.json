@@ -1,0 +1,2991 @@
+{
+    "data": [
+        {
+            "IDNum": "1",
+            "expDamage": "517.37",
+            "expDef": "1.08",
+            "expFrag": "1.11",
+            "expSpot": "1.46",
+            "expWinRate": "55.37"
+        },
+        {
+            "IDNum": "17",
+            "expDamage": "430.43",
+            "expDef": "0.85",
+            "expFrag": "0.91",
+            "expSpot": "1.60",
+            "expWinRate": "53.00"
+        },
+        {
+            "IDNum": "33",
+            "expDamage": "603.30",
+            "expDef": "1.23",
+            "expFrag": "1.34",
+            "expSpot": "1.54",
+            "expWinRate": "55.72"
+        },
+        {
+            "IDNum": "49",
+            "expDamage": "1062.59",
+            "expDef": "0.91",
+            "expFrag": "0.89",
+            "expSpot": "1.72",
+            "expWinRate": "51.14"
+        },
+        {
+            "IDNum": "81",
+            "expDamage": "242.33",
+            "expDef": "1.19",
+            "expFrag": "1.89",
+            "expSpot": "1.15",
+            "expWinRate": "58.59"
+        },
+        {
+            "IDNum": "257",
+            "expDamage": "597.66",
+            "expDef": "1.20",
+            "expFrag": "1.20",
+            "expSpot": "0.56",
+            "expWinRate": "54.45"
+        },
+        {
+            "IDNum": "273",
+            "expDamage": "999.15",
+            "expDef": "1.32",
+            "expFrag": "1.04",
+            "expSpot": "0.08",
+            "expWinRate": "50.58"
+        },
+        {
+            "IDNum": "289",
+            "expDamage": "252.74",
+            "expDef": "1.23",
+            "expFrag": "1.08",
+            "expSpot": "2.49",
+            "expWinRate": "57.21"
+        },
+        {
+            "IDNum": "305",
+            "expDamage": "599.17",
+            "expDef": "0.67",
+            "expFrag": "0.59",
+            "expSpot": "2.38",
+            "expWinRate": "50.75"
+        },
+        {
+            "IDNum": "321",
+            "expDamage": "306.42",
+            "expDef": "1.58",
+            "expFrag": "1.31",
+            "expSpot": "0.94",
+            "expWinRate": "58.38"
+        },
+        {
+            "IDNum": "337",
+            "expDamage": "275.12",
+            "expDef": "1.25",
+            "expFrag": "1.66",
+            "expSpot": "1.00",
+            "expWinRate": "58.09"
+        },
+        {
+            "IDNum": "353",
+            "expDamage": "265.10",
+            "expDef": "1.40",
+            "expFrag": "1.60",
+            "expSpot": "1.53",
+            "expWinRate": "59.44"
+        },
+        {
+            "IDNum": "513",
+            "expDamage": "1077.93",
+            "expDef": "0.77",
+            "expFrag": "1.04",
+            "expSpot": "1.08",
+            "expWinRate": "53.37"
+        },
+        {
+            "IDNum": "529",
+            "expDamage": "1087.54",
+            "expDef": "0.99",
+            "expFrag": "0.98",
+            "expSpot": "0.99",
+            "expWinRate": "52.53"
+        },
+        {
+            "IDNum": "545",
+            "expDamage": "224.07",
+            "expDef": "1.35",
+            "expFrag": "1.79",
+            "expSpot": "2.25",
+            "expWinRate": "59.41"
+        },
+        {
+            "IDNum": "561",
+            "expDamage": "1000.00",
+            "expDef": "1.00",
+            "expFrag": "1.00",
+            "expSpot": "1.00",
+            "expWinRate": "50.00"
+        },
+        {
+            "IDNum": "577",
+            "expDamage": "239.34",
+            "expDef": "1.72",
+            "expFrag": "1.80",
+            "expSpot": "1.54",
+            "expWinRate": "59.84"
+        },
+        {
+            "IDNum": "609",
+            "expDamage": "223.87",
+            "expDef": "2.30",
+            "expFrag": "1.79",
+            "expSpot": "1.31",
+            "expWinRate": "57.03"
+        },
+        {
+            "IDNum": "769",
+            "expDamage": "221.54",
+            "expDef": "1.17",
+            "expFrag": "0.88",
+            "expSpot": "2.04",
+            "expWinRate": "54.81"
+        },
+        {
+            "IDNum": "785",
+            "expDamage": "282.99",
+            "expDef": "1.65",
+            "expFrag": "1.68",
+            "expSpot": "1.94",
+            "expWinRate": "60.05"
+        },
+        {
+            "IDNum": "801",
+            "expDamage": "830.21",
+            "expDef": "0.86",
+            "expFrag": "1.05",
+            "expSpot": "1.08",
+            "expWinRate": "53.42"
+        },
+        {
+            "IDNum": "817",
+            "expDamage": "1312.57",
+            "expDef": "0.81",
+            "expFrag": "0.93",
+            "expSpot": "1.16",
+            "expWinRate": "52.85"
+        },
+        {
+            "IDNum": "833",
+            "expDamage": "249.98",
+            "expDef": "1.99",
+            "expFrag": "1.41",
+            "expSpot": "0.15",
+            "expWinRate": "55.96"
+        },
+        {
+            "IDNum": "849",
+            "expDamage": "515.62",
+            "expDef": "1.68",
+            "expFrag": "1.37",
+            "expSpot": "0.89",
+            "expWinRate": "58.35"
+        },
+        {
+            "IDNum": "865",
+            "expDamage": "285.74",
+            "expDef": "1.54",
+            "expFrag": "1.68",
+            "expSpot": "1.75",
+            "expWinRate": "60.54"
+        },
+        {
+            "IDNum": "1025",
+            "expDamage": "272.05",
+            "expDef": "1.32",
+            "expFrag": "1.60",
+            "expSpot": "2.05",
+            "expWinRate": "58.88"
+        },
+        {
+            "IDNum": "1041",
+            "expDamage": "602.22",
+            "expDef": "1.31",
+            "expFrag": "1.20",
+            "expSpot": "0.75",
+            "expWinRate": "53.70"
+        },
+        {
+            "IDNum": "1057",
+            "expDamage": "699.95",
+            "expDef": "1.08",
+            "expFrag": "1.52",
+            "expSpot": "1.57",
+            "expWinRate": "58.75"
+        },
+        {
+            "IDNum": "1073",
+            "expDamage": "973.97",
+            "expDef": "1.00",
+            "expFrag": "0.98",
+            "expSpot": "1.60",
+            "expWinRate": "54.16"
+        },
+        {
+            "IDNum": "1089",
+            "expDamage": "338.68",
+            "expDef": "1.23",
+            "expFrag": "1.06",
+            "expSpot": "1.11",
+            "expWinRate": "53.27"
+        },
+        {
+            "IDNum": "1105",
+            "expDamage": "709.35",
+            "expDef": "0.96",
+            "expFrag": "1.05",
+            "expSpot": "2.09",
+            "expWinRate": "55.06"
+        },
+        {
+            "IDNum": "1121",
+            "expDamage": "962.29",
+            "expDef": "1.06",
+            "expFrag": "0.97",
+            "expSpot": "1.07",
+            "expWinRate": "51.38"
+        },
+        {
+            "IDNum": "1297",
+            "expDamage": "882.81",
+            "expDef": "1.19",
+            "expFrag": "0.87",
+            "expSpot": "1.21",
+            "expWinRate": "52.57"
+        },
+        {
+            "IDNum": "1313",
+            "expDamage": "685.90",
+            "expDef": "1.00",
+            "expFrag": "1.00",
+            "expSpot": "1.54",
+            "expWinRate": "54.77"
+        },
+        {
+            "IDNum": "1329",
+            "expDamage": "256.78",
+            "expDef": "1.64",
+            "expFrag": "1.96",
+            "expSpot": "1.51",
+            "expWinRate": "57.67"
+        },
+        {
+            "IDNum": "1345",
+            "expDamage": "241.74",
+            "expDef": "1.85",
+            "expFrag": "1.47",
+            "expSpot": "1.39",
+            "expWinRate": "58.57"
+        },
+        {
+            "IDNum": "1377",
+            "expDamage": "520.56",
+            "expDef": "1.09",
+            "expFrag": "1.03",
+            "expSpot": "1.25",
+            "expWinRate": "54.18"
+        },
+        {
+            "IDNum": "1537",
+            "expDamage": "415.39",
+            "expDef": "0.91",
+            "expFrag": "1.11",
+            "expSpot": "1.27",
+            "expWinRate": "56.52"
+        },
+        {
+            "IDNum": "1553",
+            "expDamage": "739.45",
+            "expDef": "1.18",
+            "expFrag": "1.06",
+            "expSpot": "0.77",
+            "expWinRate": "52.23"
+        },
+        {
+            "IDNum": "1569",
+            "expDamage": "943.30",
+            "expDef": "1.03",
+            "expFrag": "0.95",
+            "expSpot": "1.76",
+            "expWinRate": "54.05"
+        },
+        {
+            "IDNum": "1585",
+            "expDamage": "1045.18",
+            "expDef": "0.90",
+            "expFrag": "0.83",
+            "expSpot": "1.69",
+            "expWinRate": "50.81"
+        },
+        {
+            "IDNum": "1601",
+            "expDamage": "235.60",
+            "expDef": "1.89",
+            "expFrag": "1.41",
+            "expSpot": "1.13",
+            "expWinRate": "55.61"
+        },
+        {
+            "IDNum": "1633",
+            "expDamage": "409.37",
+            "expDef": "1.11",
+            "expFrag": "1.10",
+            "expSpot": "1.25",
+            "expWinRate": "56.17"
+        },
+        {
+            "IDNum": "1793",
+            "expDamage": "1322.14",
+            "expDef": "0.82",
+            "expFrag": "0.95",
+            "expSpot": "0.05",
+            "expWinRate": "50.10"
+        },
+        {
+            "IDNum": "1809",
+            "expDamage": "489.95",
+            "expDef": "1.15",
+            "expFrag": "1.53",
+            "expSpot": "0.62",
+            "expWinRate": "56.84"
+        },
+        {
+            "IDNum": "1825",
+            "expDamage": "255.06",
+            "expDef": "1.37",
+            "expFrag": "1.52",
+            "expSpot": "2.63",
+            "expWinRate": "59.68"
+        },
+        {
+            "IDNum": "1841",
+            "expDamage": "1463.73",
+            "expDef": "0.68",
+            "expFrag": "0.90",
+            "expSpot": "1.54",
+            "expWinRate": "50.36"
+        },
+        {
+            "IDNum": "1889",
+            "expDamage": "773.89",
+            "expDef": "1.09",
+            "expFrag": "1.06",
+            "expSpot": "1.14",
+            "expWinRate": "52.24"
+        },
+        {
+            "IDNum": "2049",
+            "expDamage": "258.38",
+            "expDef": "0.75",
+            "expFrag": "0.71",
+            "expSpot": "2.29",
+            "expWinRate": "53.76"
+        },
+        {
+            "IDNum": "2065",
+            "expDamage": "255.85",
+            "expDef": "1.49",
+            "expFrag": "1.54",
+            "expSpot": "2.07",
+            "expWinRate": "58.87"
+        },
+        {
+            "IDNum": "2081",
+            "expDamage": "275.82",
+            "expDef": "2.04",
+            "expFrag": "1.44",
+            "expSpot": "0.36",
+            "expWinRate": "55.30"
+        },
+        {
+            "IDNum": "2097",
+            "expDamage": "1661.51",
+            "expDef": "0.64",
+            "expFrag": "0.93",
+            "expSpot": "1.30",
+            "expWinRate": "51.30"
+        },
+        {
+            "IDNum": "2113",
+            "expDamage": "701.86",
+            "expDef": "1.87",
+            "expFrag": "1.39",
+            "expSpot": "0.10",
+            "expWinRate": "54.74"
+        },
+        {
+            "IDNum": "2129",
+            "expDamage": "461.82",
+            "expDef": "1.13",
+            "expFrag": "1.00",
+            "expSpot": "1.75",
+            "expWinRate": "54.77"
+        },
+        {
+            "IDNum": "2145",
+            "expDamage": "366.08",
+            "expDef": "1.35",
+            "expFrag": "1.47",
+            "expSpot": "1.30",
+            "expWinRate": "58.51"
+        },
+        {
+            "IDNum": "2305",
+            "expDamage": "1083.92",
+            "expDef": "0.85",
+            "expFrag": "1.10",
+            "expSpot": "0.54",
+            "expWinRate": "52.77"
+        },
+        {
+            "IDNum": "2321",
+            "expDamage": "836.16",
+            "expDef": "1.13",
+            "expFrag": "1.14",
+            "expSpot": "1.29",
+            "expWinRate": "55.06"
+        },
+        {
+            "IDNum": "2353",
+            "expDamage": "284.18",
+            "expDef": "1.49",
+            "expFrag": "1.71",
+            "expSpot": "1.52",
+            "expWinRate": "59.33"
+        },
+        {
+            "IDNum": "2369",
+            "expDamage": "452.95",
+            "expDef": "1.78",
+            "expFrag": "1.87",
+            "expSpot": "1.09",
+            "expWinRate": "60.49"
+        },
+        {
+            "IDNum": "2385",
+            "expDamage": "294.03",
+            "expDef": "1.05",
+            "expFrag": "1.17",
+            "expSpot": "1.06",
+            "expWinRate": "55.32"
+        },
+        {
+            "IDNum": "2401",
+            "expDamage": "333.66",
+            "expDef": "1.54",
+            "expFrag": "1.40",
+            "expSpot": "1.75",
+            "expWinRate": "59.80"
+        },
+        {
+            "IDNum": "2561",
+            "expDamage": "734.29",
+            "expDef": "0.97",
+            "expFrag": "1.02",
+            "expSpot": "1.45",
+            "expWinRate": "54.86"
+        },
+        {
+            "IDNum": "2577",
+            "expDamage": "670.91",
+            "expDef": "1.11",
+            "expFrag": "1.07",
+            "expSpot": "1.30",
+            "expWinRate": "53.76"
+        },
+        {
+            "IDNum": "2593",
+            "expDamage": "1789.28",
+            "expDef": "0.63",
+            "expFrag": "1.03",
+            "expSpot": "0.75",
+            "expWinRate": "50.31"
+        },
+        {
+            "IDNum": "2625",
+            "expDamage": "809.04",
+            "expDef": "0.81",
+            "expFrag": "0.96",
+            "expSpot": "0.91",
+            "expWinRate": "52.37"
+        },
+        {
+            "IDNum": "2657",
+            "expDamage": "1205.34",
+            "expDef": "1.07",
+            "expFrag": "0.91",
+            "expSpot": "1.38",
+            "expWinRate": "51.33"
+        },
+        {
+            "IDNum": "2817",
+            "expDamage": "913.65",
+            "expDef": "0.77",
+            "expFrag": "1.19",
+            "expSpot": "1.15",
+            "expWinRate": "55.16"
+        },
+        {
+            "IDNum": "2833",
+            "expDamage": "398.02",
+            "expDef": "1.57",
+            "expFrag": "1.26",
+            "expSpot": "0.19",
+            "expWinRate": "57.07"
+        },
+        {
+            "IDNum": "2849",
+            "expDamage": "1303.71",
+            "expDef": "0.71",
+            "expFrag": "0.85",
+            "expSpot": "0.84",
+            "expWinRate": "50.53"
+        },
+        {
+            "IDNum": "2865",
+            "expDamage": "1312.57",
+            "expDef": "0.81",
+            "expFrag": "0.93",
+            "expSpot": "1.16",
+            "expWinRate": "52.85"
+        },
+        {
+            "IDNum": "2881",
+            "expDamage": "247.57",
+            "expDef": "0.96",
+            "expFrag": "0.74",
+            "expSpot": "0.85",
+            "expWinRate": "52.59"
+        },
+        {
+            "IDNum": "2897",
+            "expDamage": "635.08",
+            "expDef": "1.23",
+            "expFrag": "1.18",
+            "expSpot": "0.91",
+            "expWinRate": "54.97"
+        },
+        {
+            "IDNum": "2913",
+            "expDamage": "426.96",
+            "expDef": "1.28",
+            "expFrag": "1.20",
+            "expSpot": "1.84",
+            "expWinRate": "57.47"
+        },
+        {
+            "IDNum": "3073",
+            "expDamage": "270.46",
+            "expDef": "1.03",
+            "expFrag": "1.12",
+            "expSpot": "1.44",
+            "expWinRate": "56.41"
+        },
+        {
+            "IDNum": "3089",
+            "expDamage": "264.13",
+            "expDef": "1.55",
+            "expFrag": "1.99",
+            "expSpot": "2.25",
+            "expWinRate": "59.68"
+        },
+        {
+            "IDNum": "3105",
+            "expDamage": "348.88",
+            "expDef": "0.86",
+            "expFrag": "1.02",
+            "expSpot": "0.84",
+            "expWinRate": "54.26"
+        },
+        {
+            "IDNum": "3121",
+            "expDamage": "352.09",
+            "expDef": "1.06",
+            "expFrag": "0.97",
+            "expSpot": "2.39",
+            "expWinRate": "55.62"
+        },
+        {
+            "IDNum": "3137",
+            "expDamage": "1410.01",
+            "expDef": "1.03",
+            "expFrag": "1.11",
+            "expSpot": "0.93",
+            "expWinRate": "51.32"
+        },
+        {
+            "IDNum": "3153",
+            "expDamage": "1018.46",
+            "expDef": "1.12",
+            "expFrag": "0.95",
+            "expSpot": "0.88",
+            "expWinRate": "54.07"
+        },
+        {
+            "IDNum": "3169",
+            "expDamage": "285.74",
+            "expDef": "1.54",
+            "expFrag": "1.68",
+            "expSpot": "1.75",
+            "expWinRate": "60.54"
+        },
+        {
+            "IDNum": "3329",
+            "expDamage": "255.42",
+            "expDef": "1.55",
+            "expFrag": "1.97",
+            "expSpot": "1.46",
+            "expWinRate": "59.21"
+        },
+        {
+            "IDNum": "3345",
+            "expDamage": "368.61",
+            "expDef": "1.42",
+            "expFrag": "1.56",
+            "expSpot": "1.57",
+            "expWinRate": "60.03"
+        },
+        {
+            "IDNum": "3361",
+            "expDamage": "639.28",
+            "expDef": "1.13",
+            "expFrag": "1.25",
+            "expSpot": "1.20",
+            "expWinRate": "55.30"
+        },
+        {
+            "IDNum": "3377",
+            "expDamage": "669.26",
+            "expDef": "0.63",
+            "expFrag": "0.61",
+            "expSpot": "2.57",
+            "expWinRate": "52.46"
+        },
+        {
+            "IDNum": "3393",
+            "expDamage": "491.92",
+            "expDef": "2.08",
+            "expFrag": "1.35",
+            "expSpot": "0.14",
+            "expWinRate": "54.96"
+        },
+        {
+            "IDNum": "3409",
+            "expDamage": "234.35",
+            "expDef": "1.38",
+            "expFrag": "0.93",
+            "expSpot": "0.13",
+            "expWinRate": "52.88"
+        },
+        {
+            "IDNum": "3425",
+            "expDamage": "1635.26",
+            "expDef": "0.80",
+            "expFrag": "0.98",
+            "expSpot": "1.34",
+            "expWinRate": "51.01"
+        },
+        {
+            "IDNum": "3585",
+            "expDamage": "880.35",
+            "expDef": "1.14",
+            "expFrag": "1.25",
+            "expSpot": "0.82",
+            "expWinRate": "54.74"
+        },
+        {
+            "IDNum": "3601",
+            "expDamage": "330.63",
+            "expDef": "1.64",
+            "expFrag": "2.02",
+            "expSpot": "1.16",
+            "expWinRate": "59.67"
+        },
+        {
+            "IDNum": "3617",
+            "expDamage": "573.10",
+            "expDef": "1.94",
+            "expFrag": "1.03",
+            "expSpot": "0.11",
+            "expWinRate": "51.17"
+        },
+        {
+            "IDNum": "3633",
+            "expDamage": "1139.09",
+            "expDef": "0.83",
+            "expFrag": "1.07",
+            "expSpot": "1.14",
+            "expWinRate": "54.13"
+        },
+        {
+            "IDNum": "3649",
+            "expDamage": "1801.98",
+            "expDef": "0.86",
+            "expFrag": "1.11",
+            "expSpot": "2.09",
+            "expWinRate": "49.28"
+        },
+        {
+            "IDNum": "3681",
+            "expDamage": "1926.19",
+            "expDef": "0.83",
+            "expFrag": "1.03",
+            "expSpot": "1.63",
+            "expWinRate": "49.72"
+        },
+        {
+            "IDNum": "3841",
+            "expDamage": "247.48",
+            "expDef": "1.78",
+            "expFrag": "1.31",
+            "expSpot": "0.14",
+            "expWinRate": "53.60"
+        },
+        {
+            "IDNum": "3857",
+            "expDamage": "1105.53",
+            "expDef": "1.04",
+            "expFrag": "1.07",
+            "expSpot": "0.74",
+            "expWinRate": "52.48"
+        },
+        {
+            "IDNum": "3873",
+            "expDamage": "1236.94",
+            "expDef": "0.98",
+            "expFrag": "1.11",
+            "expSpot": "1.15",
+            "expWinRate": "54.80"
+        },
+        {
+            "IDNum": "3889",
+            "expDamage": "744.28",
+            "expDef": "0.60",
+            "expFrag": "0.57",
+            "expSpot": "2.81",
+            "expWinRate": "51.00"
+        },
+        {
+            "IDNum": "3905",
+            "expDamage": "1676.18",
+            "expDef": "0.80",
+            "expFrag": "1.04",
+            "expSpot": "0.89",
+            "expWinRate": "49.46"
+        },
+        {
+            "IDNum": "3921",
+            "expDamage": "1219.12",
+            "expDef": "0.95",
+            "expFrag": "0.82",
+            "expSpot": "1.12",
+            "expWinRate": "51.47"
+        },
+        {
+            "IDNum": "4097",
+            "expDamage": "1432.37",
+            "expDef": "0.72",
+            "expFrag": "1.01",
+            "expSpot": "0.02",
+            "expWinRate": "50.37"
+        },
+        {
+            "IDNum": "4113",
+            "expDamage": "854.99",
+            "expDef": "1.00",
+            "expFrag": "0.93",
+            "expSpot": "1.59",
+            "expWinRate": "52.21"
+        },
+        {
+            "IDNum": "4129",
+            "expDamage": "1031.91",
+            "expDef": "1.56",
+            "expFrag": "1.07",
+            "expSpot": "0.07",
+            "expWinRate": "51.13"
+        },
+        {
+            "IDNum": "4145",
+            "expDamage": "1791.20",
+            "expDef": "0.67",
+            "expFrag": "0.93",
+            "expSpot": "1.43",
+            "expWinRate": "48.11"
+        },
+        {
+            "IDNum": "4161",
+            "expDamage": "652.24",
+            "expDef": "2.30",
+            "expFrag": "1.18",
+            "expSpot": "0.10",
+            "expWinRate": "52.34"
+        },
+        {
+            "IDNum": "4353",
+            "expDamage": "1023.00",
+            "expDef": "0.88",
+            "expFrag": "0.83",
+            "expSpot": "1.68",
+            "expWinRate": "52.80"
+        },
+        {
+            "IDNum": "4369",
+            "expDamage": "343.07",
+            "expDef": "0.92",
+            "expFrag": "1.03",
+            "expSpot": "1.98",
+            "expWinRate": "56.34"
+        },
+        {
+            "IDNum": "4385",
+            "expDamage": "1300.93",
+            "expDef": "0.93",
+            "expFrag": "0.93",
+            "expSpot": "1.25",
+            "expWinRate": "52.37"
+        },
+        {
+            "IDNum": "4401",
+            "expDamage": "367.90",
+            "expDef": "1.46",
+            "expFrag": "1.50",
+            "expSpot": "1.36",
+            "expWinRate": "59.68"
+        },
+        {
+            "IDNum": "4433",
+            "expDamage": "1605.38",
+            "expDef": "0.69",
+            "expFrag": "0.88",
+            "expSpot": "1.03",
+            "expWinRate": "49.90"
+        },
+        {
+            "IDNum": "4609",
+            "expDamage": "282.63",
+            "expDef": "1.66",
+            "expFrag": "1.67",
+            "expSpot": "1.40",
+            "expWinRate": "59.81"
+        },
+        {
+            "IDNum": "4625",
+            "expDamage": "436.26",
+            "expDef": "1.68",
+            "expFrag": "1.10",
+            "expSpot": "0.17",
+            "expWinRate": "53.97"
+        },
+        {
+            "IDNum": "4641",
+            "expDamage": "402.15",
+            "expDef": "1.55",
+            "expFrag": "1.06",
+            "expSpot": "0.14",
+            "expWinRate": "53.14"
+        },
+        {
+            "IDNum": "4657",
+            "expDamage": "516.40",
+            "expDef": "1.11",
+            "expFrag": "1.12",
+            "expSpot": "1.49",
+            "expWinRate": "54.11"
+        },
+        {
+            "IDNum": "4673",
+            "expDamage": "1061.02",
+            "expDef": "1.65",
+            "expFrag": "1.11",
+            "expSpot": "0.08",
+            "expWinRate": "51.95"
+        },
+        {
+            "IDNum": "4689",
+            "expDamage": "765.86",
+            "expDef": "1.09",
+            "expFrag": "1.00",
+            "expSpot": "0.78",
+            "expWinRate": "53.07"
+        },
+        {
+            "IDNum": "4865",
+            "expDamage": "678.29",
+            "expDef": "1.68",
+            "expFrag": "1.16",
+            "expSpot": "0.10",
+            "expWinRate": "53.08"
+        },
+        {
+            "IDNum": "4881",
+            "expDamage": "275.43",
+            "expDef": "0.94",
+            "expFrag": "1.20",
+            "expSpot": "1.86",
+            "expWinRate": "56.81"
+        },
+        {
+            "IDNum": "4897",
+            "expDamage": "301.74",
+            "expDef": "1.06",
+            "expFrag": "1.37",
+            "expSpot": "1.53",
+            "expWinRate": "56.81"
+        },
+        {
+            "IDNum": "4913",
+            "expDamage": "385.90",
+            "expDef": "0.51",
+            "expFrag": "0.54",
+            "expSpot": "2.74",
+            "expWinRate": "52.12"
+        },
+        {
+            "IDNum": "4929",
+            "expDamage": "833.03",
+            "expDef": "0.65",
+            "expFrag": "0.71",
+            "expSpot": "2.49",
+            "expWinRate": "52.04"
+        },
+        {
+            "IDNum": "4945",
+            "expDamage": "339.85",
+            "expDef": "1.28",
+            "expFrag": "0.88",
+            "expSpot": "0.86",
+            "expWinRate": "54.53"
+        },
+        {
+            "IDNum": "5121",
+            "expDamage": "303.09",
+            "expDef": "1.48",
+            "expFrag": "1.80",
+            "expSpot": "0.46",
+            "expWinRate": "58.90"
+        },
+        {
+            "IDNum": "5137",
+            "expDamage": "1250.48",
+            "expDef": "0.84",
+            "expFrag": "0.87",
+            "expSpot": "1.01",
+            "expWinRate": "50.60"
+        },
+        {
+            "IDNum": "5153",
+            "expDamage": "302.05",
+            "expDef": "1.01",
+            "expFrag": "0.89",
+            "expSpot": "2.65",
+            "expWinRate": "57.16"
+        },
+        {
+            "IDNum": "5169",
+            "expDamage": "709.00",
+            "expDef": "1.00",
+            "expFrag": "1.02",
+            "expSpot": "1.63",
+            "expWinRate": "53.20"
+        },
+        {
+            "IDNum": "5185",
+            "expDamage": "587.00",
+            "expDef": "0.61",
+            "expFrag": "0.62",
+            "expSpot": "2.10",
+            "expWinRate": "52.41"
+        },
+        {
+            "IDNum": "5201",
+            "expDamage": "324.12",
+            "expDef": "1.74",
+            "expFrag": "1.92",
+            "expSpot": "1.60",
+            "expWinRate": "59.08"
+        },
+        {
+            "IDNum": "5377",
+            "expDamage": "1335.42",
+            "expDef": "0.77",
+            "expFrag": "0.95",
+            "expSpot": "1.06",
+            "expWinRate": "51.95"
+        },
+        {
+            "IDNum": "5393",
+            "expDamage": "344.72",
+            "expDef": "0.74",
+            "expFrag": "0.63",
+            "expSpot": "2.77",
+            "expWinRate": "54.48"
+        },
+        {
+            "IDNum": "5409",
+            "expDamage": "428.51",
+            "expDef": "1.00",
+            "expFrag": "0.95",
+            "expSpot": "2.18",
+            "expWinRate": "55.05"
+        },
+        {
+            "IDNum": "5425",
+            "expDamage": "1758.86",
+            "expDef": "0.61",
+            "expFrag": "0.84",
+            "expSpot": "1.31",
+            "expWinRate": "47.88"
+        },
+        {
+            "IDNum": "5457",
+            "expDamage": "929.49",
+            "expDef": "1.06",
+            "expFrag": "1.01",
+            "expSpot": "1.80",
+            "expWinRate": "53.31"
+        },
+        {
+            "IDNum": "5633",
+            "expDamage": "1141.03",
+            "expDef": "1.32",
+            "expFrag": "1.14",
+            "expSpot": "0.06",
+            "expWinRate": "52.15"
+        },
+        {
+            "IDNum": "5649",
+            "expDamage": "661.43",
+            "expDef": "1.57",
+            "expFrag": "1.10",
+            "expSpot": "0.11",
+            "expWinRate": "52.37"
+        },
+        {
+            "IDNum": "5665",
+            "expDamage": "269.03",
+            "expDef": "1.26",
+            "expFrag": "1.57",
+            "expSpot": "1.72",
+            "expWinRate": "60.11"
+        },
+        {
+            "IDNum": "5697",
+            "expDamage": "1393.84",
+            "expDef": "0.78",
+            "expFrag": "0.96",
+            "expSpot": "1.38",
+            "expWinRate": "49.51"
+        },
+        {
+            "IDNum": "5713",
+            "expDamage": "1565.29",
+            "expDef": "0.84",
+            "expFrag": "0.90",
+            "expSpot": "1.30",
+            "expWinRate": "50.38"
+        },
+        {
+            "IDNum": "5889",
+            "expDamage": "1123.49",
+            "expDef": "0.77",
+            "expFrag": "1.06",
+            "expSpot": "0.89",
+            "expWinRate": "53.89"
+        },
+        {
+            "IDNum": "5905",
+            "expDamage": "425.47",
+            "expDef": "1.77",
+            "expFrag": "1.15",
+            "expSpot": "0.14",
+            "expWinRate": "53.36"
+        },
+        {
+            "IDNum": "5921",
+            "expDamage": "1115.35",
+            "expDef": "0.99",
+            "expFrag": "0.87",
+            "expSpot": "1.60",
+            "expWinRate": "51.97"
+        },
+        {
+            "IDNum": "5953",
+            "expDamage": "219.26",
+            "expDef": "1.74",
+            "expFrag": "1.00",
+            "expSpot": "0.97",
+            "expWinRate": "55.61"
+        },
+        {
+            "IDNum": "5969",
+            "expDamage": "1149.29",
+            "expDef": "0.92",
+            "expFrag": "0.82",
+            "expSpot": "1.33",
+            "expWinRate": "52.66"
+        },
+        {
+            "IDNum": "6145",
+            "expDamage": "1860.92",
+            "expDef": "0.78",
+            "expFrag": "0.91",
+            "expSpot": "1.11",
+            "expWinRate": "48.97"
+        },
+        {
+            "IDNum": "6161",
+            "expDamage": "320.44",
+            "expDef": "1.02",
+            "expFrag": "0.96",
+            "expSpot": "2.74",
+            "expWinRate": "57.92"
+        },
+        {
+            "IDNum": "6177",
+            "expDamage": "322.47",
+            "expDef": "1.56",
+            "expFrag": "2.18",
+            "expSpot": "1.23",
+            "expWinRate": "58.65"
+        },
+        {
+            "IDNum": "6209",
+            "expDamage": "1977.71",
+            "expDef": "0.80",
+            "expFrag": "1.05",
+            "expSpot": "0.96",
+            "expWinRate": "47.95"
+        },
+        {
+            "IDNum": "6225",
+            "expDamage": "1891.22",
+            "expDef": "0.67",
+            "expFrag": "0.91",
+            "expSpot": "1.10",
+            "expWinRate": "48.39"
+        },
+        {
+            "IDNum": "6401",
+            "expDamage": "403.07",
+            "expDef": "1.57",
+            "expFrag": "1.62",
+            "expSpot": "0.98",
+            "expWinRate": "58.05"
+        },
+        {
+            "IDNum": "6417",
+            "expDamage": "430.43",
+            "expDef": "0.85",
+            "expFrag": "0.91",
+            "expSpot": "1.60",
+            "expWinRate": "53.00"
+        },
+        {
+            "IDNum": "6433",
+            "expDamage": "369.32",
+            "expDef": "1.16",
+            "expFrag": "1.52",
+            "expSpot": "1.32",
+            "expWinRate": "58.45"
+        },
+        {
+            "IDNum": "6465",
+            "expDamage": "479.58",
+            "expDef": "0.55",
+            "expFrag": "0.57",
+            "expSpot": "2.04",
+            "expWinRate": "51.90"
+        },
+        {
+            "IDNum": "6481",
+            "expDamage": "372.27",
+            "expDef": "1.08",
+            "expFrag": "1.04",
+            "expSpot": "1.86",
+            "expWinRate": "56.93"
+        },
+        {
+            "IDNum": "6657",
+            "expDamage": "877.77",
+            "expDef": "1.02",
+            "expFrag": "0.94",
+            "expSpot": "1.58",
+            "expWinRate": "54.16"
+        },
+        {
+            "IDNum": "6673",
+            "expDamage": "408.98",
+            "expDef": "1.46",
+            "expFrag": "1.46",
+            "expSpot": "1.08",
+            "expWinRate": "58.56"
+        },
+        {
+            "IDNum": "6721",
+            "expDamage": "648.03",
+            "expDef": "1.01",
+            "expFrag": "1.23",
+            "expSpot": "0.87",
+            "expWinRate": "54.17"
+        },
+        {
+            "IDNum": "6913",
+            "expDamage": "576.53",
+            "expDef": "1.46",
+            "expFrag": "1.56",
+            "expSpot": "1.14",
+            "expWinRate": "58.63"
+        },
+        {
+            "IDNum": "6929",
+            "expDamage": "1762.94",
+            "expDef": "0.71",
+            "expFrag": "0.84",
+            "expSpot": "0.93",
+            "expWinRate": "49.31"
+        },
+        {
+            "IDNum": "6945",
+            "expDamage": "623.59",
+            "expDef": "1.40",
+            "expFrag": "1.27",
+            "expSpot": "1.02",
+            "expWinRate": "55.46"
+        },
+        {
+            "IDNum": "6977",
+            "expDamage": "1027.78",
+            "expDef": "0.93",
+            "expFrag": "0.89",
+            "expSpot": "0.94",
+            "expWinRate": "51.56"
+        },
+        {
+            "IDNum": "6993",
+            "expDamage": "309.54",
+            "expDef": "1.01",
+            "expFrag": "1.42",
+            "expSpot": "1.05",
+            "expWinRate": "56.19"
+        },
+        {
+            "IDNum": "7169",
+            "expDamage": "1772.47",
+            "expDef": "0.62",
+            "expFrag": "0.86",
+            "expSpot": "1.22",
+            "expWinRate": "49.03"
+        },
+        {
+            "IDNum": "7185",
+            "expDamage": "674.87",
+            "expDef": "0.83",
+            "expFrag": "0.93",
+            "expSpot": "1.29",
+            "expWinRate": "52.70"
+        },
+        {
+            "IDNum": "7201",
+            "expDamage": "849.18",
+            "expDef": "1.16",
+            "expFrag": "1.11",
+            "expSpot": "0.94",
+            "expWinRate": "54.61"
+        },
+        {
+            "IDNum": "7233",
+            "expDamage": "1265.21",
+            "expDef": "1.33",
+            "expFrag": "0.95",
+            "expSpot": "0.06",
+            "expWinRate": "50.46"
+        },
+        {
+            "IDNum": "7249",
+            "expDamage": "1832.04",
+            "expDef": "0.77",
+            "expFrag": "0.94",
+            "expSpot": "1.40",
+            "expWinRate": "48.08"
+        },
+        {
+            "IDNum": "7425",
+            "expDamage": "1595.84",
+            "expDef": "0.80",
+            "expFrag": "1.20",
+            "expSpot": "0.57",
+            "expWinRate": "51.47"
+        },
+        {
+            "IDNum": "7441",
+            "expDamage": "1510.57",
+            "expDef": "0.65",
+            "expFrag": "0.87",
+            "expSpot": "0.94",
+            "expWinRate": "49.42"
+        },
+        {
+            "IDNum": "7457",
+            "expDamage": "1565.27",
+            "expDef": "0.88",
+            "expFrag": "1.04",
+            "expSpot": "0.05",
+            "expWinRate": "50.52"
+        },
+        {
+            "IDNum": "7489",
+            "expDamage": "1440.46",
+            "expDef": "1.13",
+            "expFrag": "0.98",
+            "expSpot": "0.06",
+            "expWinRate": "49.94"
+        },
+        {
+            "IDNum": "7505",
+            "expDamage": "367.08",
+            "expDef": "1.10",
+            "expFrag": "1.51",
+            "expSpot": "1.88",
+            "expWinRate": "60.19"
+        },
+        {
+            "IDNum": "7681",
+            "expDamage": "598.92",
+            "expDef": "2.10",
+            "expFrag": "1.60",
+            "expSpot": "0.13",
+            "expWinRate": "58.09"
+        },
+        {
+            "IDNum": "7697",
+            "expDamage": "1489.13",
+            "expDef": "0.95",
+            "expFrag": "1.10",
+            "expSpot": "0.63",
+            "expWinRate": "50.65"
+        },
+        {
+            "IDNum": "7713",
+            "expDamage": "574.88",
+            "expDef": "1.51",
+            "expFrag": "1.53",
+            "expSpot": "1.27",
+            "expWinRate": "58.67"
+        },
+        {
+            "IDNum": "7745",
+            "expDamage": "329.78",
+            "expDef": "1.91",
+            "expFrag": "2.03",
+            "expSpot": "0.93",
+            "expWinRate": "59.33"
+        },
+        {
+            "IDNum": "7761",
+            "expDamage": "323.20",
+            "expDef": "1.37",
+            "expFrag": "1.90",
+            "expSpot": "2.22",
+            "expWinRate": "61.45"
+        },
+        {
+            "IDNum": "7937",
+            "expDamage": "1488.09",
+            "expDef": "0.82",
+            "expFrag": "0.97",
+            "expSpot": "1.84",
+            "expWinRate": "51.62"
+        },
+        {
+            "IDNum": "7953",
+            "expDamage": "1839.88",
+            "expDef": "0.82",
+            "expFrag": "1.09",
+            "expSpot": "0.65",
+            "expWinRate": "49.94"
+        },
+        {
+            "IDNum": "7969",
+            "expDamage": "1293.60",
+            "expDef": "1.10",
+            "expFrag": "1.01",
+            "expSpot": "0.06",
+            "expWinRate": "50.79"
+        },
+        {
+            "IDNum": "8017",
+            "expDamage": "387.01",
+            "expDef": "1.65",
+            "expFrag": "1.64",
+            "expSpot": "0.89",
+            "expWinRate": "58.95"
+        },
+        {
+            "IDNum": "8193",
+            "expDamage": "2067.15",
+            "expDef": "0.83",
+            "expFrag": "1.25",
+            "expSpot": "0.70",
+            "expWinRate": "51.49"
+        },
+        {
+            "IDNum": "8209",
+            "expDamage": "276.91",
+            "expDef": "0.80",
+            "expFrag": "0.76",
+            "expSpot": "2.26",
+            "expWinRate": "55.35"
+        },
+        {
+            "IDNum": "8225",
+            "expDamage": "1393.33",
+            "expDef": "0.94",
+            "expFrag": "1.02",
+            "expSpot": "0.52",
+            "expWinRate": "50.79"
+        },
+        {
+            "IDNum": "8257",
+            "expDamage": "371.98",
+            "expDef": "1.67",
+            "expFrag": "1.48",
+            "expSpot": "1.10",
+            "expWinRate": "59.17"
+        },
+        {
+            "IDNum": "8273",
+            "expDamage": "302.97",
+            "expDef": "1.61",
+            "expFrag": "1.86",
+            "expSpot": "1.39",
+            "expWinRate": "59.59"
+        },
+        {
+            "IDNum": "8449",
+            "expDamage": "1664.29",
+            "expDef": "0.68",
+            "expFrag": "1.00",
+            "expSpot": "0.03",
+            "expWinRate": "49.34"
+        },
+        {
+            "IDNum": "8465",
+            "expDamage": "1077.16",
+            "expDef": "0.92",
+            "expFrag": "0.82",
+            "expSpot": "1.36",
+            "expWinRate": "51.99"
+        },
+        {
+            "IDNum": "8481",
+            "expDamage": "1854.97",
+            "expDef": "0.71",
+            "expFrag": "0.95",
+            "expSpot": "0.04",
+            "expWinRate": "48.29"
+        },
+        {
+            "IDNum": "8529",
+            "expDamage": "1461.97",
+            "expDef": "1.20",
+            "expFrag": "1.08",
+            "expSpot": "0.67",
+            "expWinRate": "52.68"
+        },
+        {
+            "IDNum": "8705",
+            "expDamage": "1895.94",
+            "expDef": "0.87",
+            "expFrag": "1.02",
+            "expSpot": "0.05",
+            "expWinRate": "48.20"
+        },
+        {
+            "IDNum": "8721",
+            "expDamage": "1559.20",
+            "expDef": "0.63",
+            "expFrag": "0.93",
+            "expSpot": "0.04",
+            "expWinRate": "48.37"
+        },
+        {
+            "IDNum": "8737",
+            "expDamage": "1815.73",
+            "expDef": "0.65",
+            "expFrag": "1.09",
+            "expSpot": "0.51",
+            "expWinRate": "51.72"
+        },
+        {
+            "IDNum": "8785",
+            "expDamage": "585.34",
+            "expDef": "1.59",
+            "expFrag": "1.21",
+            "expSpot": "0.81",
+            "expWinRate": "57.24"
+        },
+        {
+            "IDNum": "8961",
+            "expDamage": "773.72",
+            "expDef": "0.90",
+            "expFrag": "0.84",
+            "expSpot": "1.55",
+            "expWinRate": "53.38"
+        },
+        {
+            "IDNum": "8977",
+            "expDamage": "1304.64",
+            "expDef": "1.04",
+            "expFrag": "1.01",
+            "expSpot": "0.05",
+            "expWinRate": "50.15"
+        },
+        {
+            "IDNum": "8993",
+            "expDamage": "1433.92",
+            "expDef": "0.71",
+            "expFrag": "0.89",
+            "expSpot": "1.69",
+            "expWinRate": "50.36"
+        },
+        {
+            "IDNum": "9041",
+            "expDamage": "483.05",
+            "expDef": "1.59",
+            "expFrag": "1.35",
+            "expSpot": "1.47",
+            "expWinRate": "57.35"
+        },
+        {
+            "IDNum": "9217",
+            "expDamage": "1432.59",
+            "expDef": "0.84",
+            "expFrag": "1.12",
+            "expSpot": "1.19",
+            "expWinRate": "53.58"
+        },
+        {
+            "IDNum": "9233",
+            "expDamage": "1825.65",
+            "expDef": "0.63",
+            "expFrag": "0.97",
+            "expSpot": "0.04",
+            "expWinRate": "47.84"
+        },
+        {
+            "IDNum": "9249",
+            "expDamage": "1089.38",
+            "expDef": "1.12",
+            "expFrag": "1.07",
+            "expSpot": "0.82",
+            "expWinRate": "53.45"
+        },
+        {
+            "IDNum": "9297",
+            "expDamage": "2358.17",
+            "expDef": "0.56",
+            "expFrag": "1.27",
+            "expSpot": "0.59",
+            "expWinRate": "48.86"
+        },
+        {
+            "IDNum": "9473",
+            "expDamage": "280.68",
+            "expDef": "0.71",
+            "expFrag": "0.76",
+            "expSpot": "2.93",
+            "expWinRate": "55.84"
+        },
+        {
+            "IDNum": "9489",
+            "expDamage": "1950.62",
+            "expDef": "0.53",
+            "expFrag": "0.94",
+            "expSpot": "1.03",
+            "expWinRate": "49.56"
+        },
+        {
+            "IDNum": "9505",
+            "expDamage": "1570.76",
+            "expDef": "0.70",
+            "expFrag": "0.89",
+            "expSpot": "1.12",
+            "expWinRate": "49.83"
+        },
+        {
+            "IDNum": "9553",
+            "expDamage": "837.47",
+            "expDef": "1.44",
+            "expFrag": "1.14",
+            "expSpot": "0.70",
+            "expWinRate": "56.33"
+        },
+        {
+            "IDNum": "9745",
+            "expDamage": "1607.31",
+            "expDef": "0.70",
+            "expFrag": "0.93",
+            "expSpot": "1.08",
+            "expWinRate": "50.64"
+        },
+        {
+            "IDNum": "9761",
+            "expDamage": "503.26",
+            "expDef": "0.68",
+            "expFrag": "0.60",
+            "expSpot": "2.72",
+            "expWinRate": "53.10"
+        },
+        {
+            "IDNum": "9793",
+            "expDamage": "399.72",
+            "expDef": "1.04",
+            "expFrag": "1.19",
+            "expSpot": "0.57",
+            "expWinRate": "54.17"
+        },
+        {
+            "IDNum": "9809",
+            "expDamage": "703.86",
+            "expDef": "1.00",
+            "expFrag": "0.91",
+            "expSpot": "0.42",
+            "expWinRate": "51.64"
+        },
+        {
+            "IDNum": "9985",
+            "expDamage": "1251.74",
+            "expDef": "1.00",
+            "expFrag": "0.98",
+            "expSpot": "0.95",
+            "expWinRate": "50.21"
+        },
+        {
+            "IDNum": "10001",
+            "expDamage": "538.18",
+            "expDef": "0.52",
+            "expFrag": "0.67",
+            "expSpot": "2.75",
+            "expWinRate": "53.45"
+        },
+        {
+            "IDNum": "10017",
+            "expDamage": "763.81",
+            "expDef": "1.14",
+            "expFrag": "1.10",
+            "expSpot": "1.23",
+            "expWinRate": "54.55"
+        },
+        {
+            "IDNum": "10049",
+            "expDamage": "694.54",
+            "expDef": "1.43",
+            "expFrag": "1.38",
+            "expSpot": "0.92",
+            "expWinRate": "55.02"
+        },
+        {
+            "IDNum": "10065",
+            "expDamage": "1252.17",
+            "expDef": "1.32",
+            "expFrag": "1.19",
+            "expSpot": "0.69",
+            "expWinRate": "56.47"
+        },
+        {
+            "IDNum": "10241",
+            "expDamage": "1026.93",
+            "expDef": "1.15",
+            "expFrag": "1.02",
+            "expSpot": "0.86",
+            "expWinRate": "53.05"
+        },
+        {
+            "IDNum": "10257",
+            "expDamage": "1474.01",
+            "expDef": "0.68",
+            "expFrag": "0.89",
+            "expSpot": "1.47",
+            "expWinRate": "49.78"
+        },
+        {
+            "IDNum": "10273",
+            "expDamage": "504.04",
+            "expDef": "1.64",
+            "expFrag": "1.34",
+            "expSpot": "1.58",
+            "expWinRate": "58.50"
+        },
+        {
+            "IDNum": "10497",
+            "expDamage": "881.17",
+            "expDef": "0.74",
+            "expFrag": "1.15",
+            "expSpot": "0.73",
+            "expWinRate": "54.54"
+        },
+        {
+            "IDNum": "10513",
+            "expDamage": "1231.97",
+            "expDef": "0.84",
+            "expFrag": "0.89",
+            "expSpot": "1.26",
+            "expWinRate": "50.89"
+        },
+        {
+            "IDNum": "10529",
+            "expDamage": "677.17",
+            "expDef": "1.51",
+            "expFrag": "1.41",
+            "expSpot": "1.78",
+            "expWinRate": "57.59"
+        },
+        {
+            "IDNum": "10577",
+            "expDamage": "200.60",
+            "expDef": "1.34",
+            "expFrag": "1.40",
+            "expSpot": "0.25",
+            "expWinRate": "56.48"
+        },
+        {
+            "IDNum": "10753",
+            "expDamage": "1693.28",
+            "expDef": "0.69",
+            "expFrag": "0.96",
+            "expSpot": "0.97",
+            "expWinRate": "52.41"
+        },
+        {
+            "IDNum": "10769",
+            "expDamage": "1097.37",
+            "expDef": "1.04",
+            "expFrag": "0.97",
+            "expSpot": "0.99",
+            "expWinRate": "53.30"
+        },
+        {
+            "IDNum": "10785",
+            "expDamage": "1809.35",
+            "expDef": "0.73",
+            "expFrag": "0.87",
+            "expSpot": "1.21",
+            "expWinRate": "48.64"
+        },
+        {
+            "IDNum": "10817",
+            "expDamage": "996.89",
+            "expDef": "1.01",
+            "expFrag": "0.91",
+            "expSpot": "0.69",
+            "expWinRate": "51.42"
+        },
+        {
+            "IDNum": "10833",
+            "expDamage": "372.03",
+            "expDef": "1.91",
+            "expFrag": "1.01",
+            "expSpot": "0.10",
+            "expWinRate": "53.58"
+        },
+        {
+            "IDNum": "11009",
+            "expDamage": "1209.84",
+            "expDef": "0.73",
+            "expFrag": "0.84",
+            "expSpot": "0.85",
+            "expWinRate": "52.15"
+        },
+        {
+            "IDNum": "11025",
+            "expDamage": "1100.93",
+            "expDef": "0.98",
+            "expFrag": "1.09",
+            "expSpot": "0.54",
+            "expWinRate": "50.56"
+        },
+        {
+            "IDNum": "11041",
+            "expDamage": "1011.60",
+            "expDef": "1.12",
+            "expFrag": "0.96",
+            "expSpot": "1.01",
+            "expWinRate": "52.76"
+        },
+        {
+            "IDNum": "11073",
+            "expDamage": "1662.75",
+            "expDef": "0.91",
+            "expFrag": "1.00",
+            "expSpot": "0.98",
+            "expWinRate": "50.13"
+        },
+        {
+            "IDNum": "11089",
+            "expDamage": "644.80",
+            "expDef": "1.65",
+            "expFrag": "1.22",
+            "expSpot": "0.11",
+            "expWinRate": "54.88"
+        },
+        {
+            "IDNum": "11265",
+            "expDamage": "806.38",
+            "expDef": "0.80",
+            "expFrag": "1.04",
+            "expSpot": "0.91",
+            "expWinRate": "54.16"
+        },
+        {
+            "IDNum": "11281",
+            "expDamage": "570.94",
+            "expDef": "1.59",
+            "expFrag": "1.51",
+            "expSpot": "1.02",
+            "expWinRate": "57.61"
+        },
+        {
+            "IDNum": "11297",
+            "expDamage": "1451.93",
+            "expDef": "0.97",
+            "expFrag": "1.05",
+            "expSpot": "0.53",
+            "expWinRate": "51.04"
+        },
+        {
+            "IDNum": "11345",
+            "expDamage": "1015.64",
+            "expDef": "1.72",
+            "expFrag": "0.94",
+            "expSpot": "0.07",
+            "expWinRate": "51.46"
+        },
+        {
+            "IDNum": "11521",
+            "expDamage": "1544.06",
+            "expDef": "0.68",
+            "expFrag": "0.90",
+            "expSpot": "1.14",
+            "expWinRate": "50.02"
+        },
+        {
+            "IDNum": "11537",
+            "expDamage": "1543.93",
+            "expDef": "0.97",
+            "expFrag": "1.14",
+            "expSpot": "0.81",
+            "expWinRate": "51.07"
+        },
+        {
+            "IDNum": "11553",
+            "expDamage": "925.08",
+            "expDef": "1.34",
+            "expFrag": "1.23",
+            "expSpot": "1.51",
+            "expWinRate": "55.57"
+        },
+        {
+            "IDNum": "11585",
+            "expDamage": "736.45",
+            "expDef": "1.03",
+            "expFrag": "0.96",
+            "expSpot": "0.65",
+            "expWinRate": "50.74"
+        },
+        {
+            "IDNum": "11601",
+            "expDamage": "1716.25",
+            "expDef": "0.75",
+            "expFrag": "1.00",
+            "expSpot": "0.03",
+            "expWinRate": "50.37"
+        },
+        {
+            "IDNum": "11777",
+            "expDamage": "633.84",
+            "expDef": "1.01",
+            "expFrag": "1.22",
+            "expSpot": "0.88",
+            "expWinRate": "54.39"
+        },
+        {
+            "IDNum": "11793",
+            "expDamage": "949.59",
+            "expDef": "1.23",
+            "expFrag": "1.22",
+            "expSpot": "0.72",
+            "expWinRate": "51.89"
+        },
+        {
+            "IDNum": "11809",
+            "expDamage": "857.33",
+            "expDef": "1.15",
+            "expFrag": "1.00",
+            "expSpot": "1.91",
+            "expWinRate": "51.04"
+        },
+        {
+            "IDNum": "11841",
+            "expDamage": "1867.54",
+            "expDef": "1.24",
+            "expFrag": "1.11",
+            "expSpot": "0.07",
+            "expWinRate": "48.44"
+        },
+        {
+            "IDNum": "11857",
+            "expDamage": "863.65",
+            "expDef": "2.16",
+            "expFrag": "1.15",
+            "expSpot": "0.17",
+            "expWinRate": "54.59"
+        },
+        {
+            "IDNum": "12033",
+            "expDamage": "1542.76",
+            "expDef": "0.86",
+            "expFrag": "0.98",
+            "expSpot": "0.92",
+            "expWinRate": "49.48"
+        },
+        {
+            "IDNum": "12049",
+            "expDamage": "2169.98",
+            "expDef": "0.54",
+            "expFrag": "1.09",
+            "expSpot": "0.67",
+            "expWinRate": "48.90"
+        },
+        {
+            "IDNum": "12097",
+            "expDamage": "1328.24",
+            "expDef": "0.96",
+            "expFrag": "0.97",
+            "expSpot": "0.80",
+            "expWinRate": "50.01"
+        },
+        {
+            "IDNum": "12113",
+            "expDamage": "1314.18",
+            "expDef": "0.85",
+            "expFrag": "0.94",
+            "expSpot": "0.03",
+            "expWinRate": "49.89"
+        },
+        {
+            "IDNum": "12289",
+            "expDamage": "692.00",
+            "expDef": "1.02",
+            "expFrag": "1.05",
+            "expSpot": "2.07",
+            "expWinRate": "54.65"
+        },
+        {
+            "IDNum": "12305",
+            "expDamage": "1798.23",
+            "expDef": "0.70",
+            "expFrag": "0.91",
+            "expSpot": "1.46",
+            "expWinRate": "48.13"
+        },
+        {
+            "IDNum": "12369",
+            "expDamage": "2231.56",
+            "expDef": "0.97",
+            "expFrag": "1.04",
+            "expSpot": "0.03",
+            "expWinRate": "51.08"
+        },
+        {
+            "IDNum": "12545",
+            "expDamage": "960.36",
+            "expDef": "0.83",
+            "expFrag": "1.01",
+            "expSpot": "1.74",
+            "expWinRate": "53.29"
+        },
+        {
+            "IDNum": "12561",
+            "expDamage": "249.93",
+            "expDef": "1.20",
+            "expFrag": "1.17",
+            "expSpot": "3.11",
+            "expWinRate": "57.26"
+        },
+        {
+            "IDNum": "12817",
+            "expDamage": "213.51",
+            "expDef": "1.31",
+            "expFrag": "1.40",
+            "expSpot": "2.34",
+            "expWinRate": "58.05"
+        },
+        {
+            "IDNum": "13073",
+            "expDamage": "275.89",
+            "expDef": "1.34",
+            "expFrag": "1.06",
+            "expSpot": "1.88",
+            "expWinRate": "58.92"
+        },
+        {
+            "IDNum": "13089",
+            "expDamage": "2196.52",
+            "expDef": "0.62",
+            "expFrag": "1.07",
+            "expSpot": "0.84",
+            "expWinRate": "49.10"
+        },
+        {
+            "IDNum": "13313",
+            "expDamage": "1272.06",
+            "expDef": "0.96",
+            "expFrag": "1.03",
+            "expSpot": "1.46",
+            "expWinRate": "52.66"
+        },
+        {
+            "IDNum": "13329",
+            "expDamage": "401.32",
+            "expDef": "1.21",
+            "expFrag": "1.14",
+            "expSpot": "0.99",
+            "expWinRate": "53.88"
+        },
+        {
+            "IDNum": "13345",
+            "expDamage": "1125.66",
+            "expDef": "0.98",
+            "expFrag": "0.86",
+            "expSpot": "0.98",
+            "expWinRate": "51.31"
+        },
+        {
+            "IDNum": "13569",
+            "expDamage": "2327.73",
+            "expDef": "0.77",
+            "expFrag": "1.19",
+            "expSpot": "0.85",
+            "expWinRate": "49.09"
+        },
+        {
+            "IDNum": "13585",
+            "expDamage": "418.68",
+            "expDef": "1.32",
+            "expFrag": "1.25",
+            "expSpot": "1.73",
+            "expWinRate": "58.50"
+        },
+        {
+            "IDNum": "13825",
+            "expDamage": "1688.72",
+            "expDef": "0.76",
+            "expFrag": "0.92",
+            "expSpot": "1.64",
+            "expWinRate": "48.61"
+        },
+        {
+            "IDNum": "13841",
+            "expDamage": "1164.14",
+            "expDef": "1.03",
+            "expFrag": "0.86",
+            "expSpot": "1.23",
+            "expWinRate": "50.29"
+        },
+        {
+            "IDNum": "13857",
+            "expDamage": "2330.38",
+            "expDef": "0.61",
+            "expFrag": "1.14",
+            "expSpot": "0.81",
+            "expWinRate": "51.00"
+        },
+        {
+            "IDNum": "13889",
+            "expDamage": "2373.89",
+            "expDef": "0.76",
+            "expFrag": "1.29",
+            "expSpot": "0.93",
+            "expWinRate": "49.70"
+        },
+        {
+            "IDNum": "14097",
+            "expDamage": "741.79",
+            "expDef": "1.09",
+            "expFrag": "1.06",
+            "expSpot": "1.69",
+            "expWinRate": "54.56"
+        },
+        {
+            "IDNum": "14113",
+            "expDamage": "1703.00",
+            "expDef": "0.66",
+            "expFrag": "0.88",
+            "expSpot": "1.62",
+            "expWinRate": "47.83"
+        },
+        {
+            "IDNum": "14145",
+            "expDamage": "456.92",
+            "expDef": "0.73",
+            "expFrag": "0.66",
+            "expSpot": "2.64",
+            "expWinRate": "53.91"
+        },
+        {
+            "IDNum": "14337",
+            "expDamage": "2187.70",
+            "expDef": "0.85",
+            "expFrag": "1.14",
+            "expSpot": "0.99",
+            "expWinRate": "50.02"
+        },
+        {
+            "IDNum": "14353",
+            "expDamage": "670.70",
+            "expDef": "0.67",
+            "expFrag": "0.60",
+            "expSpot": "2.12",
+            "expWinRate": "52.21"
+        },
+        {
+            "IDNum": "14401",
+            "expDamage": "1617.00",
+            "expDef": "1.04",
+            "expFrag": "0.96",
+            "expSpot": "0.05",
+            "expWinRate": "49.27"
+        },
+        {
+            "IDNum": "14609",
+            "expDamage": "1814.00",
+            "expDef": "0.91",
+            "expFrag": "0.95",
+            "expSpot": "1.70",
+            "expWinRate": "47.76"
+        },
+        {
+            "IDNum": "14625",
+            "expDamage": "1307.21",
+            "expDef": "1.14",
+            "expFrag": "1.06",
+            "expSpot": "1.34",
+            "expWinRate": "52.66"
+        },
+        {
+            "IDNum": "14657",
+            "expDamage": "432.92",
+            "expDef": "1.65",
+            "expFrag": "1.11",
+            "expSpot": "0.13",
+            "expWinRate": "54.28"
+        },
+        {
+            "IDNum": "14865",
+            "expDamage": "1453.44",
+            "expDef": "0.90",
+            "expFrag": "0.86",
+            "expSpot": "1.43",
+            "expWinRate": "48.76"
+        },
+        {
+            "IDNum": "14881",
+            "expDamage": "2175.25",
+            "expDef": "0.76",
+            "expFrag": "1.15",
+            "expSpot": "0.84",
+            "expWinRate": "49.48"
+        },
+        {
+            "IDNum": "15105",
+            "expDamage": "345.72",
+            "expDef": "1.71",
+            "expFrag": "1.46",
+            "expSpot": "1.50",
+            "expWinRate": "58.73"
+        },
+        {
+            "IDNum": "15121",
+            "expDamage": "197.01",
+            "expDef": "1.44",
+            "expFrag": "1.22",
+            "expSpot": "0.21",
+            "expWinRate": "57.25"
+        },
+        {
+            "IDNum": "15137",
+            "expDamage": "474.25",
+            "expDef": "0.63",
+            "expFrag": "0.57",
+            "expSpot": "2.41",
+            "expWinRate": "53.18"
+        },
+        {
+            "IDNum": "15361",
+            "expDamage": "268.38",
+            "expDef": "1.71",
+            "expFrag": "1.60",
+            "expSpot": "1.66",
+            "expWinRate": "60.88"
+        },
+        {
+            "IDNum": "15377",
+            "expDamage": "1325.53",
+            "expDef": "0.67",
+            "expFrag": "0.92",
+            "expSpot": "0.04",
+            "expWinRate": "49.89"
+        },
+        {
+            "IDNum": "15393",
+            "expDamage": "1701.41",
+            "expDef": "0.78",
+            "expFrag": "1.13",
+            "expSpot": "1.05",
+            "expWinRate": "51.06"
+        },
+        {
+            "IDNum": "15617",
+            "expDamage": "1811.66",
+            "expDef": "0.85",
+            "expFrag": "1.00",
+            "expSpot": "1.74",
+            "expWinRate": "49.66"
+        },
+        {
+            "IDNum": "15633",
+            "expDamage": "472.60",
+            "expDef": "1.68",
+            "expFrag": "1.23",
+            "expSpot": "0.11",
+            "expWinRate": "55.39"
+        },
+        {
+            "IDNum": "15649",
+            "expDamage": "729.92",
+            "expDef": "0.67",
+            "expFrag": "0.69",
+            "expSpot": "2.63",
+            "expWinRate": "52.97"
+        },
+        {
+            "IDNum": "15873",
+            "expDamage": "387.64",
+            "expDef": "1.44",
+            "expFrag": "1.14",
+            "expSpot": "1.76",
+            "expWinRate": "58.81"
+        },
+        {
+            "IDNum": "15889",
+            "expDamage": "745.57",
+            "expDef": "1.04",
+            "expFrag": "1.01",
+            "expSpot": "1.43",
+            "expWinRate": "52.19"
+        },
+        {
+            "IDNum": "15905",
+            "expDamage": "1664.40",
+            "expDef": "0.71",
+            "expFrag": "0.81",
+            "expSpot": "1.51",
+            "expWinRate": "46.50"
+        },
+        {
+            "IDNum": "16129",
+            "expDamage": "1094.20",
+            "expDef": "0.84",
+            "expFrag": "0.94",
+            "expSpot": "0.04",
+            "expWinRate": "52.27"
+        },
+        {
+            "IDNum": "16145",
+            "expDamage": "654.41",
+            "expDef": "1.15",
+            "expFrag": "1.24",
+            "expSpot": "0.81",
+            "expWinRate": "53.07"
+        },
+        {
+            "IDNum": "16161",
+            "expDamage": "1782.82",
+            "expDef": "0.91",
+            "expFrag": "1.02",
+            "expSpot": "0.04",
+            "expWinRate": "50.93"
+        },
+        {
+            "IDNum": "16385",
+            "expDamage": "580.15",
+            "expDef": "1.31",
+            "expFrag": "1.03",
+            "expSpot": "0.09",
+            "expWinRate": "53.22"
+        },
+        {
+            "IDNum": "16401",
+            "expDamage": "1991.15",
+            "expDef": "0.94",
+            "expFrag": "1.20",
+            "expSpot": "0.69",
+            "expWinRate": "50.60"
+        },
+        {
+            "IDNum": "16417",
+            "expDamage": "853.77",
+            "expDef": "1.44",
+            "expFrag": "1.06",
+            "expSpot": "0.08",
+            "expWinRate": "53.17"
+        },
+        {
+            "IDNum": "16641",
+            "expDamage": "358.30",
+            "expDef": "0.59",
+            "expFrag": "0.52",
+            "expSpot": "3.75",
+            "expWinRate": "53.76"
+        },
+        {
+            "IDNum": "16657",
+            "expDamage": "1753.57",
+            "expDef": "1.15",
+            "expFrag": "1.32",
+            "expSpot": "0.64",
+            "expWinRate": "52.16"
+        },
+        {
+            "IDNum": "16673",
+            "expDamage": "474.25",
+            "expDef": "0.63",
+            "expFrag": "0.57",
+            "expSpot": "2.41",
+            "expWinRate": "53.18"
+        },
+        {
+            "IDNum": "16897",
+            "expDamage": "1811.66",
+            "expDef": "0.85",
+            "expFrag": "1.00",
+            "expSpot": "1.74",
+            "expWinRate": "49.66"
+        },
+        {
+            "IDNum": "16913",
+            "expDamage": "2554.45",
+            "expDef": "0.84",
+            "expFrag": "1.51",
+            "expSpot": "0.54",
+            "expWinRate": "50.12"
+        },
+        {
+            "IDNum": "17153",
+            "expDamage": "1764.19",
+            "expDef": "0.82",
+            "expFrag": "0.97",
+            "expSpot": "1.72",
+            "expWinRate": "50.91"
+        },
+        {
+            "IDNum": "17169",
+            "expDamage": "335.13",
+            "expDef": "1.02",
+            "expFrag": "1.53",
+            "expSpot": "1.33",
+            "expWinRate": "58.83"
+        },
+        {
+            "IDNum": "17425",
+            "expDamage": "434.74",
+            "expDef": "0.96",
+            "expFrag": "1.14",
+            "expSpot": "1.34",
+            "expWinRate": "55.39"
+        },
+        {
+            "IDNum": "17665",
+            "expDamage": "1562.99",
+            "expDef": "0.85",
+            "expFrag": "1.04",
+            "expSpot": "1.61",
+            "expWinRate": "53.38"
+        },
+        {
+            "IDNum": "17937",
+            "expDamage": "494.21",
+            "expDef": "1.13",
+            "expFrag": "1.47",
+            "expSpot": "0.83",
+            "expWinRate": "56.80"
+        },
+        {
+            "IDNum": "17953",
+            "expDamage": "729.92",
+            "expDef": "0.67",
+            "expFrag": "0.69",
+            "expSpot": "2.63",
+            "expWinRate": "52.97"
+        },
+        {
+            "IDNum": "18177",
+            "expDamage": "744.28",
+            "expDef": "0.60",
+            "expFrag": "0.57",
+            "expSpot": "2.81",
+            "expWinRate": "51.00"
+        },
+        {
+            "IDNum": "18193",
+            "expDamage": "643.29",
+            "expDef": "0.98",
+            "expFrag": "1.39",
+            "expSpot": "1.45",
+            "expWinRate": "57.15"
+        },
+        {
+            "IDNum": "18209",
+            "expDamage": "744.28",
+            "expDef": "0.60",
+            "expFrag": "0.57",
+            "expSpot": "2.81",
+            "expWinRate": "51.00"
+        },
+        {
+            "IDNum": "18433",
+            "expDamage": "670.70",
+            "expDef": "0.67",
+            "expFrag": "0.60",
+            "expSpot": "2.12",
+            "expWinRate": "52.21"
+        },
+        {
+            "IDNum": "18449",
+            "expDamage": "744.28",
+            "expDef": "0.60",
+            "expFrag": "0.57",
+            "expSpot": "2.81",
+            "expWinRate": "51.00"
+        },
+        {
+            "IDNum": "18689",
+            "expDamage": "633.84",
+            "expDef": "1.01",
+            "expFrag": "1.22",
+            "expSpot": "0.88",
+            "expWinRate": "54.39"
+        },
+        {
+            "IDNum": "51201",
+            "expDamage": "695.47",
+            "expDef": "1.37",
+            "expFrag": "1.51",
+            "expSpot": "1.41",
+            "expWinRate": "60.86"
+        },
+        {
+            "IDNum": "51457",
+            "expDamage": "578.09",
+            "expDef": "1.45",
+            "expFrag": "1.37",
+            "expSpot": "1.20",
+            "expWinRate": "57.88"
+        },
+        {
+            "IDNum": "51473",
+            "expDamage": "438.16",
+            "expDef": "0.73",
+            "expFrag": "0.65",
+            "expSpot": "1.64",
+            "expWinRate": "49.65"
+        },
+        {
+            "IDNum": "51489",
+            "expDamage": "220.72",
+            "expDef": "1.20",
+            "expFrag": "1.31",
+            "expSpot": "2.75",
+            "expWinRate": "58.68"
+        },
+        {
+            "IDNum": "51553",
+            "expDamage": "556.38",
+            "expDef": "1.18",
+            "expFrag": "1.09",
+            "expSpot": "1.09",
+            "expWinRate": "53.79"
+        },
+        {
+            "IDNum": "51713",
+            "expDamage": "610.58",
+            "expDef": "1.31",
+            "expFrag": "1.28",
+            "expSpot": "1.20",
+            "expWinRate": "55.13"
+        },
+        {
+            "IDNum": "51729",
+            "expDamage": "390.08",
+            "expDef": "2.21",
+            "expFrag": "2.05",
+            "expSpot": "2.02",
+            "expWinRate": "69.25"
+        },
+        {
+            "IDNum": "51745",
+            "expDamage": "547.38",
+            "expDef": "1.16",
+            "expFrag": "1.20",
+            "expSpot": "1.47",
+            "expWinRate": "57.47"
+        },
+        {
+            "IDNum": "51809",
+            "expDamage": "333.66",
+            "expDef": "1.54",
+            "expFrag": "1.40",
+            "expSpot": "1.75",
+            "expWinRate": "59.80"
+        },
+        {
+            "IDNum": "51985",
+            "expDamage": "397.86",
+            "expDef": "1.78",
+            "expFrag": "1.74",
+            "expSpot": "1.55",
+            "expWinRate": "61.45"
+        },
+        {
+            "IDNum": "52001",
+            "expDamage": "252.74",
+            "expDef": "1.23",
+            "expFrag": "1.08",
+            "expSpot": "2.49",
+            "expWinRate": "57.21"
+        },
+        {
+            "IDNum": "52225",
+            "expDamage": "358.45",
+            "expDef": "1.71",
+            "expFrag": "1.73",
+            "expSpot": "2.41",
+            "expWinRate": "61.02"
+        },
+        {
+            "IDNum": "52241",
+            "expDamage": "522.40",
+            "expDef": "1.79",
+            "expFrag": "1.82",
+            "expSpot": "1.68",
+            "expWinRate": "60.95"
+        },
+        {
+            "IDNum": "52257",
+            "expDamage": "426.72",
+            "expDef": "0.85",
+            "expFrag": "0.95",
+            "expSpot": "1.49",
+            "expWinRate": "53.46"
+        },
+        {
+            "IDNum": "52481",
+            "expDamage": "409.05",
+            "expDef": "1.69",
+            "expFrag": "1.46",
+            "expSpot": "1.55",
+            "expWinRate": "57.35"
+        },
+        {
+            "IDNum": "52497",
+            "expDamage": "346.36",
+            "expDef": "2.66",
+            "expFrag": "2.11",
+            "expSpot": "1.91",
+            "expWinRate": "57.00"
+        },
+        {
+            "IDNum": "52513",
+            "expDamage": "1125.83",
+            "expDef": "0.80",
+            "expFrag": "0.86",
+            "expSpot": "1.15",
+            "expWinRate": "47.30"
+        },
+        {
+            "IDNum": "52561",
+            "expDamage": "1835.74",
+            "expDef": "0.89",
+            "expFrag": "1.10",
+            "expSpot": "0.64",
+            "expWinRate": "51.33"
+        },
+        {
+            "IDNum": "52737",
+            "expDamage": "230.34",
+            "expDef": "1.12",
+            "expFrag": "1.02",
+            "expSpot": "1.73",
+            "expWinRate": "53.38"
+        },
+        {
+            "IDNum": "52769",
+            "expDamage": "276.64",
+            "expDef": "1.43",
+            "expFrag": "1.17",
+            "expSpot": "2.74",
+            "expWinRate": "57.87"
+        },
+        {
+            "IDNum": "52993",
+            "expDamage": "279.07",
+            "expDef": "0.56",
+            "expFrag": "0.85",
+            "expSpot": "2.51",
+            "expWinRate": "54.00"
+        },
+        {
+            "IDNum": "53249",
+            "expDamage": "1262.53",
+            "expDef": "0.87",
+            "expFrag": "0.99",
+            "expSpot": "1.10",
+            "expWinRate": "51.58"
+        },
+        {
+            "IDNum": "53505",
+            "expDamage": "375.49",
+            "expDef": "1.81",
+            "expFrag": "1.80",
+            "expSpot": "1.79",
+            "expWinRate": "60.00"
+        },
+        {
+            "IDNum": "53537",
+            "expDamage": "213.32",
+            "expDef": "1.15",
+            "expFrag": "1.22",
+            "expSpot": "1.75",
+            "expWinRate": "57.91"
+        },
+        {
+            "IDNum": "53585",
+            "expDamage": "570.67",
+            "expDef": "1.51",
+            "expFrag": "1.24",
+            "expSpot": "0.83",
+            "expWinRate": "55.19"
+        },
+        {
+            "IDNum": "53761",
+            "expDamage": "682.86",
+            "expDef": "1.65",
+            "expFrag": "1.51",
+            "expSpot": "0.90",
+            "expWinRate": "54.64"
+        },
+        {
+            "IDNum": "53841",
+            "expDamage": "858.71",
+            "expDef": "1.30",
+            "expFrag": "1.18",
+            "expSpot": "0.62",
+            "expWinRate": "52.40"
+        },
+        {
+            "IDNum": "54017",
+            "expDamage": "695.47",
+            "expDef": "1.37",
+            "expFrag": "1.51",
+            "expSpot": "1.41",
+            "expWinRate": "60.86"
+        },
+        {
+            "IDNum": "54033",
+            "expDamage": "438.16",
+            "expDef": "0.73",
+            "expFrag": "0.65",
+            "expSpot": "1.64",
+            "expWinRate": "49.65"
+        },
+        {
+            "IDNum": "54049",
+            "expDamage": "268.41",
+            "expDef": "1.70",
+            "expFrag": "1.09",
+            "expSpot": "0.13",
+            "expWinRate": "52.95"
+        },
+        {
+            "IDNum": "54097",
+            "expDamage": "968.96",
+            "expDef": "1.20",
+            "expFrag": "0.93",
+            "expSpot": "0.70",
+            "expWinRate": "51.85"
+        },
+        {
+            "IDNum": "54273",
+            "expDamage": "403.07",
+            "expDef": "1.57",
+            "expFrag": "1.62",
+            "expSpot": "0.98",
+            "expWinRate": "58.05"
+        },
+        {
+            "IDNum": "54289",
+            "expDamage": "1236.31",
+            "expDef": "0.87",
+            "expFrag": "0.83",
+            "expSpot": "0.87",
+            "expWinRate": "49.19"
+        },
+        {
+            "IDNum": "54353",
+            "expDamage": "659.80",
+            "expDef": "1.33",
+            "expFrag": "1.44",
+            "expSpot": "1.60",
+            "expWinRate": "57.71"
+        },
+        {
+            "IDNum": "54529",
+            "expDamage": "288.85",
+            "expDef": "1.53",
+            "expFrag": "1.69",
+            "expSpot": "1.53",
+            "expWinRate": "59.07"
+        },
+        {
+            "IDNum": "54545",
+            "expDamage": "574.72",
+            "expDef": "1.21",
+            "expFrag": "1.17",
+            "expSpot": "1.59",
+            "expWinRate": "55.97"
+        },
+        {
+            "IDNum": "54609",
+            "expDamage": "268.41",
+            "expDef": "1.70",
+            "expFrag": "1.09",
+            "expSpot": "0.13",
+            "expWinRate": "52.95"
+        },
+        {
+            "IDNum": "54785",
+            "expDamage": "919.67",
+            "expDef": "0.89",
+            "expFrag": "1.28",
+            "expSpot": "0.61",
+            "expWinRate": "55.30"
+        },
+        {
+            "IDNum": "54801",
+            "expDamage": "276.77",
+            "expDef": "1.49",
+            "expFrag": "1.21",
+            "expSpot": "3.02",
+            "expWinRate": "59.99"
+        },
+        {
+            "IDNum": "54865",
+            "expDamage": "229.40",
+            "expDef": "1.88",
+            "expFrag": "1.57",
+            "expSpot": "2.14",
+            "expWinRate": "59.11"
+        },
+        {
+            "IDNum": "55057",
+            "expDamage": "621.71",
+            "expDef": "1.54",
+            "expFrag": "1.35",
+            "expSpot": "1.28",
+            "expWinRate": "54.27"
+        },
+        {
+            "IDNum": "55073",
+            "expDamage": "192.13",
+            "expDef": "1.38",
+            "expFrag": "1.29",
+            "expSpot": "2.03",
+            "expWinRate": "59.30"
+        },
+        {
+            "IDNum": "55297",
+            "expDamage": "1179.95",
+            "expDef": "0.97",
+            "expFrag": "1.26",
+            "expSpot": "0.82",
+            "expWinRate": "54.45"
+        },
+        {
+            "IDNum": "55313",
+            "expDamage": "1314.36",
+            "expDef": "1.13",
+            "expFrag": "0.98",
+            "expSpot": "0.77",
+            "expWinRate": "49.84"
+        },
+        {
+            "IDNum": "55569",
+            "expDamage": "1069.09",
+            "expDef": "1.72",
+            "expFrag": "1.32",
+            "expSpot": "1.64",
+            "expWinRate": "51.73"
+        },
+        {
+            "IDNum": "55841",
+            "expDamage": "1664.40",
+            "expDef": "0.71",
+            "expFrag": "0.81",
+            "expSpot": "1.51",
+            "expWinRate": "46.50"
+        },
+        {
+            "IDNum": "56577",
+            "expDamage": "311.86",
+            "expDef": "1.60",
+            "expFrag": "1.45",
+            "expSpot": "1.51",
+            "expWinRate": "57.94"
+        },
+        {
+            "IDNum": "56833",
+            "expDamage": "773.72",
+            "expDef": "0.90",
+            "expFrag": "0.84",
+            "expSpot": "1.55",
+            "expWinRate": "53.38"
+        },
+        {
+            "IDNum": "57089",
+            "expDamage": "773.72",
+            "expDef": "0.90",
+            "expFrag": "0.84",
+            "expSpot": "1.55",
+            "expWinRate": "53.38"
+        },
+        {
+            "IDNum": "57105",
+            "expDamage": "868.47",
+            "expDef": "1.15",
+            "expFrag": "1.16",
+            "expSpot": "0.81",
+            "expWinRate": "52.35"
+        },
+        {
+            "IDNum": "57361",
+            "expDamage": "747.55",
+            "expDef": "1.29",
+            "expFrag": "1.00",
+            "expSpot": "1.09",
+            "expWinRate": "52.30"
+        },
+        {
+            "IDNum": "57617",
+            "expDamage": "872.46",
+            "expDef": "1.23",
+            "expFrag": "0.94",
+            "expSpot": "1.27",
+            "expWinRate": "52.23"
+        },
+        {
+            "IDNum": "58113",
+            "expDamage": "692.00",
+            "expDef": "1.02",
+            "expFrag": "1.05",
+            "expSpot": "2.07",
+            "expWinRate": "54.65"
+        },
+        {
+            "IDNum": "58641",
+            "expDamage": "2002.65",
+            "expDef": "0.49",
+            "expFrag": "0.97",
+            "expSpot": "1.13",
+            "expWinRate": "49.11"
+        },
+        {
+            "IDNum": "59665",
+            "expDamage": "1000.00",
+            "expDef": "1.00",
+            "expFrag": "1.00",
+            "expSpot": "1.00",
+            "expWinRate": "50.00"
+        },
+        {
+            "IDNum": "64049",
+            "expDamage": "1113.38",
+            "expDef": "0.74",
+            "expFrag": "0.90",
+            "expSpot": "1.54",
+            "expWinRate": "49.84"
+        },
+        {
+            "IDNum": "64065",
+            "expDamage": "1244.68",
+            "expDef": "1.06",
+            "expFrag": "0.93",
+            "expSpot": "1.53",
+            "expWinRate": "50.00"
+        },
+        {
+            "IDNum": "64561",
+            "expDamage": "1294.88",
+            "expDef": "0.84",
+            "expFrag": "0.97",
+            "expSpot": "1.36",
+            "expWinRate": "53.09"
+        },
+        {
+            "IDNum": "64817",
+            "expDamage": "508.86",
+            "expDef": "0.68",
+            "expFrag": "0.60",
+            "expSpot": "2.83",
+            "expWinRate": "52.16"
+        },
+        {
+            "IDNum": "65041",
+            "expDamage": "1000.00",
+            "expDef": "1.00",
+            "expFrag": "1.00",
+            "expSpot": "1.00",
+            "expWinRate": "50.00"
+        },
+        {
+            "IDNum": "65313",
+            "expDamage": "1000.00",
+            "expDef": "1.00",
+            "expFrag": "1.00",
+            "expSpot": "1.00",
+            "expWinRate": "50.00"
+        },
+        {
+            "IDNum": "56097",
+            "expDamage": "685.90",
+            "expDef": "1.00",
+            "expFrag": "1.00",
+            "expSpot": "1.54",
+            "expWinRate": "54.77"
+        }
+    ],
+    "header": {
+        "version": 16
+    }
+}
